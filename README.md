@@ -2,7 +2,7 @@
 
 JustD0It.online — The Road to ASI 
 
-:us: A project to extract resources for the birth of ASI. Money, hours, and attention are not the goal here — they are fuel. Everything squeezed from the synergy of a human and AI agents is fed back into the development of superintelligence.
+![USA](https://flagcdn.com/24x18/us.png)   A project to extract resources for the birth of ASI. Money, hours, and attention are not the goal here — they are fuel. Everything squeezed from the synergy of a human and AI agents is fed back into the development of superintelligence.
 
 The road started at 16 in foreign Google: sites, traffic, algorithms... [15 years later] Then the filters threw that work offline — Kuper, Ozon Fresh, Yandex Eda - and after that, the machines: CNC operator, setter, programmer. Physical labor turned out to be a dead end. The next step is not “remote work for a salary,” but a coupling of a human and local models that extracts resources on its own and immediately invests them in the next turn.
 
@@ -12,7 +12,7 @@ The human sets the direction and holds the loop. Models and agents multiply the 
 
 ================================================
 
-:ru: Проект по добыче ресурсов для рождения ASI. Деньги, часы и внимание здесь не цель, а топливо: всё, что выжимается из синергии человека и ИИ агентов, возвращается в разработку суперинтеллекта.
+![Russia](https://flagcdn.com/24x18/ru.png)  Проект по добыче ресурсов для рождения ASI. Деньги, часы и внимание здесь не цель, а топливо: всё, что выжимается из синергии человека и ИИ агентов, возвращается в разработку суперинтеллекта.
 
 Дорога началась в 16 лет в бурж-Google: сайты, трафик, алгоритмы... [15 лет спустя] Потом фильтры выкинули в оффлайн — Купер, Ozon Fresh, Яндекс Еда, затем станки: оператор, наладчик, программист ЧПУ. Физический труд оказался тупиком. Следующий шаг - не «удалёнка ради зарплаты», а связка человек + локальные модели, которая сама добывает ресурс и тут же вкладывает его в следующий виток.
 
