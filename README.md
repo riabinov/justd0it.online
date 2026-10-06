@@ -1,4 +1,4 @@
-# justd0it.online
+# JustD0It.online
 
 JustD0It.online — The Road to ASI 
 
